@@ -1,8 +1,8 @@
 # Moe Eldouma
 
-**AI Engineer | Open-Source Contributor | Video & Speech AI**
+**AI Engineer | Open-Source Contributor**
 
-Building AI-powered tools for video generation, speech synthesis, and autonomous agent systems.
+Building AI agentic workflows, training and fine-tuning agents.
 
 ---
 
