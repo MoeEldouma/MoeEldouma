@@ -25,7 +25,7 @@ Discovered, diagnosed, and proposed the fix for a **P1 critical data-loss vulner
 - Recognized by Nous Research with primary credit for "the most actionable diagnosis"
 - The fix is now live on main, protecting all Hermes users
 
-> *"The diagnosis from @eldoumamoe-glitch was on target... primary bug report with the most actionable diagnosis — correct identification of `_cleanup_workspace()` as the deletion site, full trace from `kanban_complete` to `rmtree`, and the three concrete suggested fixes that match what landed almost exactly."*
+> *"The diagnosis from @MoeEldouma was on target... primary bug report with the most actionable diagnosis — correct identification of `_cleanup_workspace()` as the deletion site, full trace from `kanban_complete` to `rmtree`, and the three concrete suggested fixes that match what landed almost exactly."*
 > — **teknium**, Nous Research
 
 [View the full issue and resolution](https://github.com/NousResearch/hermes-agent/issues/30151)
@@ -34,7 +34,7 @@ Discovered, diagnosed, and proposed the fix for a **P1 critical data-loss vulner
 
 ## Projects
 
-### [Arabic TTS](https://github.com/eldoumamoe-glitch/arabic-tts)
+### [Arabic TTS](https://github.com/MoeEldouma/arabic-tts)
 Improving XTTS-v2 for natural Arabic speech synthesis with multi-dialect support.
 
 ### Eldouma Studio
