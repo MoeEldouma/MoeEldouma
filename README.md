@@ -34,6 +34,9 @@ Discovered, diagnosed, and proposed the fix for a **P1 critical data-loss vulner
 
 ## Projects
 
+### [ZolVoice](https://zolvoice.com)
+Founder. A text-to-speech and voice-over studio for Sudanese Arabic: natural Sudanese voices for ads, YouTube, phone menus and stories ([العربية](https://zolvoice.com/ar)).
+
 ### [Arabic TTS](https://github.com/MoeEldouma/arabic-tts)
 Improving XTTS-v2 for natural Arabic speech synthesis with multi-dialect support.
 
